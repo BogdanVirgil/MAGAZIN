@@ -1,0 +1,9 @@
+C:\Users\Bogdan\Desktop\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Bogdan\Desktop\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Bogdan\Desktop\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Bogdan\Desktop\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Bogdan\Desktop\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Bogdan\Dropbox\My PC (DESKTOP-HU8A97P)\Desktop\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Bogdan\Dropbox\My PC (DESKTOP-HU8A97P)\Desktop\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Bogdan\Dropbox\My PC (DESKTOP-HU8A97P)\Desktop\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
